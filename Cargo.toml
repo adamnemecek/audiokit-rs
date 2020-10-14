@@ -1,0 +1,15 @@
+[package]
+name = "audiokit"
+version = "0.1.1"
+authors = ["Adam Nemecek <adamnemecek@gmail.com>"]
+edition = "2018"
+description = "Rust bindings for AVFounation"
+homepage = "https://github.com/adamnemecek/audiokit-rs"
+repository = "https://github.com/adamnemecek/audiokit-rs"
+readme = "README.md"
+keywords = ["audio", "macos"]
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
